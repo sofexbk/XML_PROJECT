@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="Notes">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="Etudiant" maxOccurs="unbounded" type="TYPE_ETUDIANT"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:complexType name="TYPE_ETUDIANT">
+        <xsd:sequence>
+            <xsd:element name="CodeApogee" type="xsd:integer" maxOccurs="1"/>
+            <xsd:element name="NOM" type="xsd:string" maxOccurs="1"/>
+            <xsd:element name="PRENOM" type="xsd:string" maxOccurs="1" />
+            <xsd:element name="Module" maxOccurs="unbounded" type="TYPE_MODULE"/>
+            <xsd:element name="MoyenneGénérale" type="xsd:decimal"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="TYPE_MODULE">
+        <xsd:sequence>
+            <xsd:element name="Matières" type="MATIERES_TYPE"/>
+            <xsd:element name="Moyenne" type="xsd:decimal"/>
+        </xsd:sequence>
+        <xsd:attribute name="Code" type="xsd:string" use="required"/>
+        <xsd:attribute name="Designation" type="xsd:string" use="required"/>
+    </xsd:complexType>
+    <xsd:complexType name="MATIERES_TYPE">
+        <xsd:sequence>
+            <xsd:element name="Matière" maxOccurs="2" type="MATIERE_TYPE" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="MATIERE_TYPE">
+        <xsd:simpleContent>
+            <xsd:extension base="xsd:decimal">
+                <xsd:attribute name="Designation" type="xsd:string" use="required"/>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+</xsd:schema>

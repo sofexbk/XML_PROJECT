@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Modules">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Module" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="NomModule" type="xs:string"/>
+                            <xs:element name="ElementModule" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                            <xs:element name="Dept_Attachement" type="xs:string"/>
+                        </xs:sequence>
+                        <xs:attribute name="CodeModule" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

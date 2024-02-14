@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Etudiants>
+	<Etudiant>
+		<CodeApogee>20000773</CodeApogee>
+		<Nom>ABETIOU</Nom>
+		<Prenom>SOFIANE</Prenom>
+		<Email>ABETIOU.SOFIANE@etu.uae.ac.ma</Email>
+		<CIN>K432272</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19001211</CodeApogee>
+		<Nom>ACHERNAN</Nom>
+		<Prenom>MOHAMED</Prenom>
+		<Email>ACHERNAN.MOHAMED@etu.uae.ac.ma</Email>
+		<CIN>K214974</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19001137</CodeApogee>
+		<Nom>AFOUD</Nom>
+		<Prenom>HIND</Prenom>
+		<Email>AFOUD.HIND@etu.uae.ac.ma</Email>
+		<CIN>K149601</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000734</CodeApogee>
+		<Nom>AIT OUKHADOU</Nom>
+		<Prenom>SELMA</Prenom>
+		<Email>AIT OUKHADOU.SELMA@etu.uae.ac.ma</Email>
+		<CIN>K448935</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000761</CodeApogee>
+		<Nom>AKIIRNE</Nom>
+		<Prenom>AMAL</Prenom>
+		<Email>AKIIRNE.AMAL@etu.uae.ac.ma</Email>
+		<CIN>K278712</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19001276</CodeApogee>
+		<Nom>AMHAOUEH</Nom>
+		<Prenom>WIAM</Prenom>
+		<Email>AMHAOUEH.WIAM@etu.uae.ac.ma</Email>
+		<CIN>K311839</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20001244</CodeApogee>
+		<Nom>AMINE</Nom>
+		<Prenom>TAHA</Prenom>
+		<Email>AMINE.TAHA@etu.uae.ac.ma</Email>
+		<CIN>K181388</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000493</CodeApogee>
+		<Nom>ARRAB</Nom>
+		<Prenom>HAFSA</Prenom>
+		<Email>ARRAB.HAFSA@etu.uae.ac.ma</Email>
+		<CIN>K267017</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20006988</CodeApogee>
+		<Nom>BAJJI</Nom>
+		<Prenom>AMINE</Prenom>
+		<Email>BAJJI.AMINE@etu.uae.ac.ma</Email>
+		<CIN>K378543</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20007078</CodeApogee>
+		<Nom>BENAMRI</Nom>
+		<Prenom>AYMANE</Prenom>
+		<Email>BENAMRI.AYMANE@etu.uae.ac.ma</Email>
+		<CIN>K162719</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000758</CodeApogee>
+		<Nom>BENATTOU</Nom>
+		<Prenom>IHSANE</Prenom>
+		<Email>BENATTOU.IHSANE@etu.uae.ac.ma</Email>
+		<CIN>K397512</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000757</CodeApogee>
+		<Nom>BENATTOU</Nom>
+		<Prenom>IMANE</Prenom>
+		<Email>BENATTOU.IMANE@etu.uae.ac.ma</Email>
+		<CIN>K238333</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19002165</CodeApogee>
+		<Nom>BENTOUFILE</Nom>
+		<Prenom>OUSSAMA</Prenom>
+		<Email>BENTOUFILE.OUSSAMA@etu.uae.ac.ma</Email>
+		<CIN>K400319</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>H</Sexe>
+
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000730</CodeApogee>
+		<Nom>BOUALI</Nom>
+		<Prenom>MAROUA</Prenom>
+		<Email>BOUALI.MAROUA@etu.uae.ac.ma</Email>
+		<CIN>K141099</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002424</CodeApogee>
+		<Nom>BOUKTAIB</Nom>
+		<Prenom>SOUFIAN</Prenom>
+		<Email>BOUKTAIB.SOUFIAN@etu.uae.ac.ma</Email>
+		<CIN>K422914</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000771</CodeApogee>
+		<Nom>BOULAID</Nom>
+		<Prenom>SARA</Prenom>
+		<Email>BOULAID.SARA@etu.uae.ac.ma</Email>
+		<CIN>K335804</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20007025</CodeApogee>
+		<Nom>CHANAA</Nom>
+		<Prenom>AIMANE</Prenom>
+		<Email>CHANAA.AIMANE@etu.uae.ac.ma</Email>
+		<CIN>K371714</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20007161</CodeApogee>
+		<Nom>CHATT</Nom>
+		<Prenom>ANAS</Prenom>
+		<Email>CHATT.ANAS@etu.uae.ac.ma</Email>
+		<CIN>K360266</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20004313</CodeApogee>
+		<Nom>DAHRABOU</Nom>
+		<Prenom>DOHA</Prenom>
+		<Email>DAHRABOU.DOHA@etu.uae.ac.ma</Email>
+		<CIN>K379793</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20007051</CodeApogee>
+		<Nom>DAOUDI</Nom>
+		<Prenom>AYA</Prenom>
+		<Email>DAOUDI.AYA@etu.uae.ac.ma</Email>
+		<CIN>K256398</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002432</CodeApogee>
+		<Nom>ECHBERAAL</Nom>
+		<Prenom>ANASS</Prenom>
+		<Email>ECHBERAAL.ANASS@etu.uae.ac.ma</Email>
+		<CIN>K162002</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002251</CodeApogee>
+		<Nom>EL AALOUCH</Nom>
+		<Prenom>MOHAMMED YASSINE</Prenom>
+		<Email>EL AALOUCH.MOHAMMED YASSINE@etu.uae.ac.ma</Email>
+		<CIN>K295989</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002670</CodeApogee>
+		<Nom>EL ASSIRI</Nom>
+		<Prenom>AHLAM</Prenom>
+		<Email>EL ASSIRI.AHLAM@etu.uae.ac.ma</Email>
+		<CIN>K320153</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000742</CodeApogee>
+		<Nom>EL AZOUAN</Nom>
+		<Prenom>AYA</Prenom>
+		<Email>EL AZOUAN.AYA@etu.uae.ac.ma</Email>
+		<CIN>K234242</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000741</CodeApogee>
+		<Nom>EL BAGHDADI</Nom>
+		<Prenom>NADA</Prenom>
+		<Email>EL BAGHDADI.NADA@etu.uae.ac.ma</Email>
+		<CIN>K208270</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000775</CodeApogee>
+		<Nom>EL BARAKA</Nom>
+		<Prenom>NOUHAILA</Prenom>
+		<Email>EL BARAKA.NOUHAILA@etu.uae.ac.ma</Email>
+		<CIN>K245042</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19001439</CodeApogee>
+		<Nom>EL FICH</Nom>
+		<Prenom>RIHAB</Prenom>
+		<Email>EL FICH.RIHAB@etu.uae.ac.ma</Email>
+		<CIN>K155608</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19002131</CodeApogee>
+		<Nom>EL GAID</Nom>
+		<Prenom>MUSTAPHA</Prenom>
+		<Email>EL GAID.MUSTAPHA@etu.uae.ac.ma</Email>
+		<CIN>K396953</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000780</CodeApogee>
+		<Nom>EL HABTI</Nom>
+		<Prenom>NAJOUA</Prenom>
+		<Email>EL HABTI.NAJOUA@etu.uae.ac.ma</Email>
+		<CIN>K329241</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20003925</CodeApogee>
+		<Nom>EL HADDAD</Nom>
+		<Prenom>MOHAMED</Prenom>
+		<Email>EL HADDAD.MOHAMED@etu.uae.ac.ma</Email>
+		<CIN>K189721</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19006658</CodeApogee>
+		<Nom>EL HARIRI</Nom>
+		<Prenom>KENZA</Prenom>
+		<Email>EL HARIRI.KENZA@etu.uae.ac.ma</Email>
+		<CIN>K437967</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000755</CodeApogee>
+		<Nom>EL HARRACHY</Nom>
+		<Prenom>ABDERRAHMANE</Prenom>
+		<Email>EL HARRACHY.ABDERRAHMANE@etu.uae.ac.ma</Email>
+		<CIN>K427870</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000716</CodeApogee>
+		<Nom>EL MAFTOUHI</Nom>
+		<Prenom>BILAL</Prenom>
+		<Email>EL MAFTOUHI.BILAL@etu.uae.ac.ma</Email>
+		<CIN>K251323</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>18008815</CodeApogee>
+		<Nom>EL MAIMOUNI</Nom>
+		<Prenom>MOHAMED AMINE</Prenom>
+		<Email>EL MAIMOUNI.MOHAMED AMINE@etu.uae.ac.ma</Email>
+		<CIN>K286905</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20006989</CodeApogee>
+		<Nom>EL MOUMOUHI</Nom>
+		<Prenom>HOUDA</Prenom>
+		<Email>EL MOUMOUHI.HOUDA@etu.uae.ac.ma</Email>
+		<CIN>K201407</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20007067</CodeApogee>
+		<Nom>EL OMARI</Nom>
+		<Prenom>IMANE</Prenom>
+		<Email>EL OMARI.IMANE@etu.uae.ac.ma</Email>
+		<CIN>K299137</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19001413</CodeApogee>
+		<Nom>EL YAMLAHI</Nom>
+		<Prenom>AICHA</Prenom>
+		<Email>EL YAMLAHI.AICHA@etu.uae.ac.ma</Email>
+		<CIN>K205924</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>17004026</CodeApogee>
+		<Nom>EL YAZGHI</Nom>
+		<Prenom>MARYEM</Prenom>
+		<Email>EL YAZGHI.MARYEM@etu.uae.ac.ma</Email>
+		<CIN>K144013</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000759</CodeApogee>
+		<Nom>ENNAJARI</Nom>
+		<Prenom>OUMAIMA</Prenom>
+		<Email>ENNAJARI.OUMAIMA@etu.uae.ac.ma</Email>
+		<CIN>K360653</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19005693</CodeApogee>
+		<Nom>ESSAIH</Nom>
+		<Prenom>ASMAE</Prenom>
+		<Email>ESSAIH.ASMAE@etu.uae.ac.ma</Email>
+		<CIN>K273098</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19005680</CodeApogee>
+		<Nom>FAROUK</Nom>
+		<Prenom>ZAKARIA</Prenom>
+		<Email>FAROUK.ZAKARIA@etu.uae.ac.ma</Email>
+		<CIN>K250476</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000777</CodeApogee>
+		<Nom>GLIOUAL</Nom>
+		<Prenom>YASSINE</Prenom>
+		<Email>GLIOUAL.YASSINE@etu.uae.ac.ma</Email>
+		<CIN>K351638</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19005656</CodeApogee>
+		<Nom>GOMAIRI</Nom>
+		<Prenom>HAMZA</Prenom>
+		<Email>GOMAIRI.HAMZA@etu.uae.ac.ma</Email>
+		<CIN>K211249</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19006584</CodeApogee>
+		<Nom>HAJI</Nom>
+		<Prenom>OTMANE</Prenom>
+		<Email>HAJI.OTMANE@etu.uae.ac.ma</Email>
+		<CIN>K357686</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002433</CodeApogee>
+		<Nom>HAMDAN</Nom>
+		<Prenom>KARIMA</Prenom>
+		<Email>HAMDAN.KARIMA@etu.uae.ac.ma</Email>
+		<CIN>K306268</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002532</CodeApogee>
+		<Nom>HARRAK</Nom>
+		<Prenom>YOUSSEF</Prenom>
+		<Email>HARRAK.YOUSSEF@etu.uae.ac.ma</Email>
+		<CIN>K355130</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000763</CodeApogee>
+		<Nom>HAYAOUI</Nom>
+		<Prenom>MOUAD</Prenom>
+		<Email>HAYAOUI.MOUAD@etu.uae.ac.ma</Email>
+		<CIN>K192151</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000740</CodeApogee>
+		<Nom>HIMMI</Nom>
+		<Prenom>HAJAR</Prenom>
+		<Email>HIMMI.HAJAR@etu.uae.ac.ma</Email>
+		<CIN>K265024</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002137</CodeApogee>
+		<Nom>IDRISSI</Nom>
+		<Prenom>YASSINE</Prenom>
+		<Email>IDRISSI.YASSINE@etu.uae.ac.ma</Email>
+		<CIN>K254898</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20006985</CodeApogee>
+		<Nom>JAADA</Nom>
+		<Prenom>ZAHAIRA</Prenom>
+		<Email>JAADA.ZAHAIRA@etu.uae.ac.ma</Email>
+		<CIN>K404353</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002554</CodeApogee>
+		<Nom>KACHAR</Nom>
+		<Prenom>NABIL</Prenom>
+		<Email>KACHAR.NABIL@etu.uae.ac.ma</Email>
+		<CIN>K186469</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20009742</CodeApogee>
+		<Nom>KDIDAR</Nom>
+		<Prenom>HAJAR</Prenom>
+		<Email>KDIDAR.HAJAR@etu.uae.ac.ma</Email>
+		<CIN>K316601</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Larache</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19006706</CodeApogee>
+		<Nom>KEFFAOUI</Nom>
+		<Prenom>NOHA</Prenom>
+		<Email>KEFFAOUI.NOHA@etu.uae.ac.ma</Email>
+		<CIN>K311505</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20006930</CodeApogee>
+		<Nom>KHALLOUFI</Nom>
+		<Prenom>AYA</Prenom>
+		<Email>KHALLOUFI.AYA@etu.uae.ac.ma</Email>
+		<CIN>K344117</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000754</CodeApogee>
+		<Nom>LAABADI</Nom>
+		<Prenom>HOUDA</Prenom>
+		<Email>LAABADI.HOUDA@etu.uae.ac.ma</Email>
+		<CIN>K428320</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19002804</CodeApogee>
+		<Nom>LAHOIENI</Nom>
+		<Prenom>ABDERRAHIM</Prenom>
+		<Email>LAHOIENI.ABDERRAHIM@etu.uae.ac.ma</Email>
+		<CIN>K257808</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tétouan</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19001375</CodeApogee>
+		<Nom>LAKRAMAT</Nom>
+		<Prenom>HASNAE</Prenom>
+		<Email>LAKRAMAT.HASNAE@etu.uae.ac.ma</Email>
+		<CIN>K345674</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000731</CodeApogee>
+		<Nom>MOUNTASSIR</Nom>
+		<Prenom>REDA</Prenom>
+		<Email>MOUNTASSIR.REDA@etu.uae.ac.ma</Email>
+		<CIN>K190734</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000513</CodeApogee>
+		<Nom>NAYMA</Nom>
+		<Prenom>OMAYMA</Prenom>
+		<Email>NAYMA.OMAYMA@etu.uae.ac.ma</Email>
+		<CIN>K430899</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20007695</CodeApogee>
+		<Nom>RANBOUK</Nom>
+		<Prenom>LAMIAE</Prenom>
+		<Email>RANBOUK.LAMIAE@etu.uae.ac.ma</Email>
+		<CIN>K288466</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>F</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>19006284</CodeApogee>
+		<Nom>RAYES</Nom>
+		<Prenom>ABDELKOUDOUS</Prenom>
+		<Email>RAYES.ABDELKOUDOUS@etu.uae.ac.ma</Email>
+		<CIN>K385752</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+		<LieuNaissance>Tanger</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20000721</CodeApogee>
+		<Nom>SAMADI</Nom>
+		<Prenom>IMAD</Prenom>
+		<Email>SAMADI.IMAD@etu.uae.ac.ma</Email>
+		<CIN>K386092</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+		<LieuNaissance>Al Hoceima</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+	<Etudiant>
+		<CodeApogee>20002123</CodeApogee>
+		<Nom>ZAOUI</Nom>
+		<Prenom>OUSSAMA</Prenom>
+		<Email>ZAOUI.OUSSAMA@etu.uae.ac.ma</Email>
+		<CIN>K399052</CIN>
+		<DateNaissance>2001-11-08</DateNaissance>
+
+		<LieuNaissance>Casablanca</LieuNaissance>
+		<Sexe>H</Sexe>
+	</Etudiant>
+</Etudiants>

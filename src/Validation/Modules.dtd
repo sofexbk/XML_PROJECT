@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!ELEMENT Modules (Module+)>
+    <!ELEMENT Module (NomModule, ElementModule*, Dept_Attachement)>
+    <!ELEMENT NomModule (#PCDATA)>
+    <!ELEMENT ElementModule (#PCDATA)>
+    <!ELEMENT Dept_Attachement (#PCDATA)>
+    <!ATTLIST Module CodeModule CDATA #REQUIRED>
+
